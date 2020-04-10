@@ -21,7 +21,9 @@ and more built standard modules in python 3.6.
 
 ### Dataset:
 portfolio.json — containing offer ids and meta data about each offer (duration, type, etc.)
+
 profile.json — demographic data for each customer
+
 transcript.json — records for transactions, offers received, offers viewed, and offers completed
 
 ### Licensing, Authors, Acknowledgements, etc.
