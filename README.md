@@ -2,7 +2,7 @@
 # Objective
 The Objective of this project is for build recommendation system which finds the best offer for a customer.
 
-The blogpost can be found here:
+The blogpost can be found here: https://medium.com/@aarthitarhia/analysis-of-starbucks-customers-on-offers-e58c1f2e055e
 
 ## Summary:
 The following are found by the experiment,
